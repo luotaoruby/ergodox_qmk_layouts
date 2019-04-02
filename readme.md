@@ -11,3 +11,17 @@ To make use of this file you will need follow the following steps:
 * You are now ready to compile or use your keymap with the source
 
 More information can be found in the QMK docs: <https://docs.qmk.fm>
+
+ ## Screenshots
+
+ Layer 0
+
+ ![Layer 0](https://github.com/luotaoruby/ergodox_qmk_layouts/blob/master/imgs/layer0.png)
+
+ Layer 1
+
+ ![Layer 1](https://github.com/luotaoruby/ergodox_qmk_layouts/blob/master/imgs/layer1.png)
+
+ Layer 2
+
+ ![Layer 2](https://github.com/luotaoruby/ergodox_qmk_layouts/blob/master/imgs/layer2.png)
