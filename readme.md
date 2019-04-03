@@ -25,3 +25,7 @@ More information can be found in the QMK docs: <https://docs.qmk.fm>
  Layer 2
 
  ![Layer 2](https://github.com/luotaoruby/ergodox_qmk_layouts/blob/master/imgs/layer2.png)
+
+ Layer 3
+
+ ![Layer 3](https://github.com/luotaoruby/ergodox_qmk_layouts/blob/master/imgs/layer3.png)
