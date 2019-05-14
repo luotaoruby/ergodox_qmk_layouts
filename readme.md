@@ -33,3 +33,7 @@ More information can be found in the QMK docs: <https://docs.qmk.fm>
  Layer 4
 
  ![Layer 4](https://github.com/luotaoruby/ergodox_qmk_layouts/blob/master/imgs/layer4.png)
+
+ Layer 5
+
+ ![Layer 5](https://github.com/luotaoruby/ergodox_qmk_layouts/blob/master/imgs/layer5.png)
